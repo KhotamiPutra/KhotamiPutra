@@ -13,7 +13,6 @@ Hi, Im Muhammad Ramdhan Khotami Putra
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KhotamiPutra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=KhotamiPutra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KhotamiPutra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhotamiPutra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
