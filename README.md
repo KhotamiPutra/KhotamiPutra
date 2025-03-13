@@ -12,8 +12,6 @@ Hi, Im Muhammad Ramdhan Khotami Putra
 
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KhotamiPutra&theme=dark&hide_border=false)<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhotamiPutra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhotamiPutra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1234-blue)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=KhotamiPutra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KhotamiPutra&theme=dark&hide_border=false)<br/>
@@ -34,3 +32,7 @@ Hi, Im Muhammad Ramdhan Khotami Putra
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+kenapa api nya tidak ada? hanya total contribusi saja yg ada? munculkan apinya, semakin besar kontribusi semakin menyala !!!
