@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Muhammad Ramdhan Khotami Putra 👋  
 🚀 A passionate Frontend Developer & IoT Enthusiast from Indonesia 🇮🇩  
-💻 Currently exploring **Flutter, Laravel, and C#**  
+💻 Currently exploring **Flutter, Laravel, and IoT**  
 🎯 My goal: **To build impactful digital solutions & grow as a developer**  
 🌱 Currently learning **Advanced Flutter & Backend Development**  
 🔍 Always curious about **AI, IoT, and Cloud Computing** 
@@ -13,7 +13,12 @@ Hi, I'm Muhammad Ramdhan Khotami Putra 👋
 ![fun fact gif](https://media4.giphy.com/media/SeFRMluv8ESbu/giphy.gif)
 - I love coding at night 🌙  
 - Huge fan of **Baskara Putra** 🎶  
-- Enjoy solving algorithm challenges 🧠  
+- Enjoy solving algorithm challenges 🧠
+- Can’t code without good music & coffee ☕🎧
+- Gym rat 🏋️‍♂️ who also loves running & cardio 🏃
+- Low-key dreaming of visiting Japan & Switzerland 🇯🇵🇨🇭
+- 🎶 Die-hard fan of Baskara Putra (Hindia, .Feast) – his lyrics always hit deep!
+- 🔥 Always on repeat: "Everything U Are", "Rumah ke Rumah", & "Nina" – perfect for coding & late-night thoughts.
 
 
 
