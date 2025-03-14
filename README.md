@@ -32,5 +32,3 @@ Hi, Im Muhammad Ramdhan Khotami Putra
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-kenapa api nya tidak ada? hanya total contribusi saja yg ada? munculkan apinya, semakin besar kontribusi semakin menyala !!!
