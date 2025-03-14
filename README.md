@@ -12,7 +12,7 @@ Hi, I'm Muhammad Ramdhan Khotami Putra 👋
 ## 👀 Fun Fact About Me
 ![fun fact gif](https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif)  
 - I love coding at night 🌙  
-- Huge fan of **JKT48 & Hindia** 🎶  
+- Huge fan of **Baskara Putra** 🎶  
 - Enjoy solving algorithm challenges 🧠  
 
 
