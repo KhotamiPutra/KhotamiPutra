@@ -7,7 +7,6 @@ Hi, I'm Muhammad Ramdhan Khotami Putra 👋
 🔍 Always curious about **AI, IoT, and Cloud Computing** 
 
 
-![header](https://github.com/KhotamiPutra/KhotamiPutra/blob/main/assets/header.png)
 
 
 ## 👀 Fun Fact About Me
