@@ -28,18 +28,6 @@ Hi, I'm Muhammad Ramdhan Khotami Putra 👋
 
 
 
-aku ingin logo nya itu kesamping terus seperti di tech  stack
-
-
-
-aku ingin logo nya itu kesamping terus seperti di tech  stack
-
-
-## 🚧 Currently Working On:
-- 🏋️ **Gym Membership Management App** (Flutter & Sqflite)  
-- 🔗 **IoT Smart Home System** (C#, MQTT)  
-- 📝 **Writing Tech Articles about Flutter & Laravel**  
-
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KhotamiPutra&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api?username=KhotamiPutra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
