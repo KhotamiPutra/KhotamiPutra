@@ -10,7 +10,7 @@ Hi, I'm Muhammad Ramdhan Khotami Putra 👋
 
 
 ## 👀 Fun Fact About Me
-![fun fact gif]([https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hiZjJ4aDZoZWw3Nzl2eHAyZmRkMGVhNGxsYnc4dTZjamYyNnkydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SeFRMluv8ESbu/giphy.gif))  
+![fun fact gif](https://media4.giphy.com/media/SeFRMluv8ESbu/giphy.gif)
 - I love coding at night 🌙  
 - Huge fan of **Baskara Putra** 🎶  
 - Enjoy solving algorithm challenges 🧠  
