@@ -1,10 +1,9 @@
 # 💫 About Me:
 Hi, I'm Muhammad Ramdhan Khotami Putra 👋  
 🚀 A passionate Frontend Developer & IoT Enthusiast from Indonesia 🇮🇩  
-💻 Currently exploring **Flutter, Laravel, and IoT**  
-🎯 My goal: **To build impactful digital solutions & grow as a developer**  
-🌱 Currently learning **Advanced Flutter & Backend Development**  
-🔍 Always curious about **AI, IoT, and Cloud Computing**  
+🎓 Currently studying at **Politeknik Manufaktur Bandung (Polman Bandung)**  
+   - Major: **Automation Manufacture and Mechatronics**  
+   - Study Program: **Industrial Informatics Engineering Technology (Teknologi Rekayasa Informatika Industri)**  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/864391969145094154) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/khotamiputra/)  [![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31vq7n5q3kqqryfqs5pguheiaocu?si=ffc95b0d31224026) 
