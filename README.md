@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hi, I'm Muhammad Ramdhan Khotami Putra 👋  
-🚀 A passionate Frontend Developer & IoT Enthusiast from Indonesia 🇮🇩  
 🎓 Currently studying at **Politeknik Manufaktur Bandung (Polman Bandung)**  
    - Major: **Automation Manufacture and Mechatronics**  
    - Study Program: **Industrial Informatics Engineering Technology (Teknologi Rekayasa Informatika Industri)**  
