@@ -6,17 +6,6 @@ Hi, I'm Muhammad Ramdhan Khotami Putra 👋
 🌱 Currently learning **Advanced Flutter & Backend Development**  
 🔍 Always curious about **AI, IoT, and Cloud Computing**  
 
-## 👀 Fun Fact About Me
-![fun fact gif](https://media4.giphy.com/media/SeFRMluv8ESbu/giphy.gif)
-- I love coding at night 🌙  
-- Huge fan of **Baskara Putra** 🎶  
-- Enjoy solving algorithm challenges 🧠  
-- Can’t code without good music & coffee ☕🎧  
-- Gym rat 🏋️‍♂️ who also loves running & cardio 🏃  
-- Low-key dreaming of visiting Japan & Switzerland 🇯🇵🇨🇭  
-- 🎶 Die-hard fan of Baskara Putra (Hindia, .Feast) – his lyrics always hit deep!  
-- 🔥 Always on repeat: **"Everything U Are"**, **"Rumah ke Rumah"**, & **"Nina"** – perfect for coding & late-night thoughts.  
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/864391969145094154) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/khotamiputra/)  [![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31vq7n5q3kqqryfqs5pguheiaocu?si=ffc95b0d31224026) 
 
